@@ -13,15 +13,14 @@ A funny project for UseLess Projects
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Aravind S Kumar] - [Government Engineering College Kozhikode]
+- Member 2: [Fuad] - [Government Engineering College Kozhikode]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Its just an entertainment website which calculates the no of hairs comically and then predicts the users future hair  ]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[it wastes people's time]
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
