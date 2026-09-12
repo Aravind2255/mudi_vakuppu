@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # mudi-vakuppu
 A funny project for UseLess Projects
 =======
@@ -6,11 +5,11 @@ A funny project for UseLess Projects
 
 
 
-# [Project Name] 🎯
+# [mudi_vakuppu] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Z]
 
 
 ### Team Members
