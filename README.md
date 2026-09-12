@@ -5,95 +5,53 @@ A funny project for UseLess Projects
 
 
 
-# [mudi_vakuppu] 🎯
+# mudi_vakuppu 🎯
 
 
 ## Basic Details
-### Team Name: [Z]
+### Team Name: Z
 
 
 ### Team Members
-- Member 1: [Aravind S Kumar] - [Government Engineering College Kozhikode]
-- Member 2: [Fuad] - [Government Engineering College Kozhikode]
+- Member 1: Aravind S Kumar - Government Engineering College Kozhikode
+- Member 2: Fuad - Government Engineering College Kozhikode
 
 ### Project Description
-[Its just an entertainment website which calculates the no of hairs comically and then predicts the users future hair  ]
+Its just an entertainment website which calculates the no of hairs comically and then predicts the users future hair  
 
 ### The Problem (that doesn't exist)
-[it wastes people's time]
+it wastes people's time
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+hair count calculator(increased stress)
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- html
+- css
+- js
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+no command
 
 # Run
-[commands]
+run html file
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1896" height="907" alt="Screenshot 2026-09-12 065445" src="https://github.com/user-attachments/assets/642b6b07-db52-4530-82c9-a62878b64dc6" />
+<img width="1888" height="902" alt="Screenshot 2026-09-12 065508" src="https://github.com/user-attachments/assets/fc6e781a-f3bf-498a-9b10-bfb8c249855a" />
+<img width="1890" height="902" alt="Screenshot 2026-09-12 065522" src="https://github.com/user-attachments/assets/10d44972-c6eb-4953-afb8-03d51622edbf" />
+<img width="1872" height="907" alt="Screenshot 2026-09-12 065541" src="https://github.com/user-attachments/assets/7597aefc-75b7-4b9a-bf67-647a507a7cca" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
