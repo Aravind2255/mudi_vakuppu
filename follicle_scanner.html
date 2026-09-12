@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Follicle™ — Extremely Scientific Hair Scanner</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<nav>
+		<div class="logo"><span>മുടി വകുപ്പു™</span></div>
+		<div class="badge">100% UNNECESSARY SCIENCE</div>
+	</nav>
+
+	<section id="p1" class="page active">
+		<div class="hero">
+			<div>
+				<div class="eyebrow">MELCOW.....</div>
+				<h1>വാ നമുക്ക് മുടിയുടെ എണ്ണം <em>എടുക്കാം!!</em></h1>
+				<p class="sub">We are about to perform an extremely advanced scan using absolutely no medical equipment whatsoever.</p>
+				<button onclick="go(2)">അപ്പൊ എങ്ങനെ <br>നോക്കല്ലേ?? →</button>
+				<p class="tiny">ആത്മവിശ്വാസം, ആശയക്കുഴപ്പം, സാങ്കൽപ്പിക മുടികൾ എണ്ണൽ എന്നിവ പാർശ്വഫലങ്ങളിൽ ഉൾപ്പെട്ടേക്കാം.</p>
+			</div>
+			<div class="scan-card">
+				<div class="face">
+					<img class="scan-image scan-image-home" src="images/home.jpg" alt="Starting scan image">
+					<img class="scan-image scan-image-after" src="images/after.jpg" alt="Completed scan image">
+					<div class="scanline"></div>
+					<div class="scan-corner scan-corner-top"></div>
+					<div class="scan-corner scan-corner-bottom"></div>
+				</div>
+				<div class="counter" id="counter">0 hairs detected</div>
+				<div class="loader">
+					<div class="dot"></div>
+					<div class="dot"></div>
+					<div class="dot"></div>
+					<b>calibrating comb...</b>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="p2" class="page">
+		<div class="phase-two-layout">
+			<aside class="scan-notes scan-notes-left" aria-label="Scan examples">
+				<img src="images/scan1.jpg" alt="Scan example 1">
+				<img src="images/scan2.jpg" alt="Scan example 2">
+				<img src="images/scan3.jpg" alt="Scan example 3">
+			</aside>
+
+			<div class="center">
+			<div class="eyebrow">Phase 02 · ദയവായി സഹകരിക്കുക.</div>
+			<h2 style="font-size: clamp(10px, 9vw, 36px);">മണ്ടത്തല  <br>വെക്കു  <em style="color: #ec5454;">സഹോദരാ /സഹോദരീ</em></h2>
+			<p class="sub" style="margin: auto">Upload a clear photo of your hair. <b>Our patented algorithm</b> will stare at it intensely and produce a completely fictional number.</p>
+			<div class="upload">
+				<label for="hairFile">📸 UPLOAD HAIR PHOTO</label>
+				<input id="hairFile" type="file" accept="image/*">
+				<img id="preview" class="preview">
+				<p class="tiny">No image? That's okay. Our algorithm has a backup plan: guessing.</p>
+			</div>
+			<button id="scanBtn" onclick="scan()">ആരംഭികലാമാ  →</button>
+			<div id="progressWrap" style="display: none">
+				<div class="progress">
+					<div class="bar" id="bar"></div>
+				</div>
+				<b id="status">Locating follicles...</b>
+			</div>
+			</div>
+
+			<aside class="scan-notes scan-notes-right" aria-label="Scan examples">
+				<img src="images/scan4.jpg" alt="Scan example 4">
+				<img src="images/scan5.jpg" alt="Scan example 5">
+				<img src="images/scan6.jpg" alt="Scan example 6">
+			</aside>
+		</div>
+	</section>
+
+	<section id="p3" class="page reveal-page">
+		<div class="reveal-content" id="revealContent">
+			<div id="revealText" class="reveal-text">ippo kittum nokki irunno</div>
+			<img id="revealImage" class="reveal-image" src="images/bl.gif" alt="Bald surprise">
+			<div id="revealJoke" class="reveal-joke">nah!! just kidding</div>
+		</div>
+	</section>
+
+	<section id="p4" class="page">
+		<div class="center">
+			<div class="eyebrow">UseLess Report</div>
+			<h2 style="font-size: clamp(10px, 9vw, 36px);">നിങ്ങളുടെ    <em>തലെഴുത്ത്</em></h2>
+			<div class="result-grid">
+				<div class="metric">
+					<h3>Estimated hairs</h3>
+					<div class="num" id="hairNum">—</div>
+					<div class="tiny">± approximately a million because we're guessing</div>
+				</div>
+				<div class="metric">
+					<h3>അവസ്ഥ</h3>
+					<div class="num" id="vibe">—</div>
+					<div class="tiny">peer-reviewed by nobody</div>
+				</div>
+				<div class="verdict" id="verdict">Calculating your completely avoidable future...</div>
+				<div class="future">
+					<h3>🔮 YOUR ഭാവി  </h3>
+					<div id="futureVisual" class="cartoon-bald"></div>
+					<p id="futureText" class="sub" style="margin: auto">Loading your destiny...</p>
+				</div>
+			</div>
+			<button onclick="go(1)">↻ അടുത്തത് COMMON</button>
+		</div>
+	</section>
+
+	<footer>മുടി വകുപ്പു™ — വേറെ ഒരു പണിം ല്ലാത്തോണ്ട് മാത്രം.</footer>
+
+	<script src="script.js"></script>
+
+</body>
+</html>
